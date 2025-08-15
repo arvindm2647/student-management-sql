@@ -17,7 +17,5 @@ You can use it to practice SQL commands like creating tables, inserting data, an
 ---
 
 ## 🚀 How to Use
-1. Open MySQL or MariaDB on your system.
-2. Run the script:
-   ```bash
-   mysql -u root -p < student_management.sql
+1. Open MySQL on your system.
+2. Run the script
